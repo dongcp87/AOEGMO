@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "aoersjp-9755e": {
+      "hosting": {
+        "app": [
+          "aoegmo"
+        ]
+      }
+    }
+  }
+}
